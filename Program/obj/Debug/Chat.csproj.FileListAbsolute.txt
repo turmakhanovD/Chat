@@ -1,0 +1,7 @@
+c:\users\турмаханд\source\repos\ChatClient\Program\bin\Debug\Program.exe.config
+c:\users\турмаханд\source\repos\ChatClient\Program\bin\Debug\Program.exe
+c:\users\турмаханд\source\repos\ChatClient\Program\bin\Debug\Program.pdb
+c:\users\турмаханд\source\repos\ChatClient\Program\obj\Debug\Chat.csproj.CoreCompileInputs.cache
+c:\users\турмаханд\source\repos\ChatClient\Program\obj\Debug\Program.exe
+c:\users\турмаханд\source\repos\ChatClient\Program\obj\Debug\Program.pdb
+c:\users\турмаханд\source\repos\ChatClient\Program\obj\Debug\Chat.csprojAssemblyReference.cache
